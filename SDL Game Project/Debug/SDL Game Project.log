@@ -1,0 +1,12 @@
+﻿  main.cpp
+  Tilemap.cpp
+  Tail_node.cpp
+  Player.cpp
+  GameObject.cpp
+c:\users\admin\desktop\my snake game (1)\my snake game\sdl game project\sdl game project\gameobject.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Game.cpp
+  Generating Code...
+  SDL Game Project.vcxproj -> C:\Users\Admin\Desktop\My Snake Game (1)\My Snake Game\SDL Game Project\Debug\SDL Game Project.exe
+  SDL Game Project.vcxproj -> C:\Users\Admin\Desktop\My Snake Game (1)\My Snake Game\SDL Game Project\Debug\SDL Game Project.pdb (Partial PDB)
