@@ -1,0 +1,22 @@
+Finish Assignment 1  -- DONE
+
+
+
+
+
+Create Menu Options Which includes PLay, HighScore and Quit Options
+
+
+Add Food To Eat for Snake
+
+
+Add Obstacles
+
+
+Give our Snake a Bullet
+
+
+Game Ending Scene
+
+
+Add Audio, Collision and Camera Effects
